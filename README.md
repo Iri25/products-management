@@ -18,7 +18,7 @@ Mobile client application for products management. A store uses a mobile applica
 - Discount - An integer (0-100) that represents the discount applied to the product.
 - Status - A Boolean value that specifies whether the discount is applied.
 
-### The application offers the following features:
+## The application offers the following features:
 
 ● Warehouseman section (separate screen).
 1. Register the product. Using the POST /product call specifying all the attributes of a product. Available online and offline.
