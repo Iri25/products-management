@@ -9,7 +9,7 @@ npm start
 
 Mobile client application for products management. A store uses a mobile application to manage the products offered. The storekeeper manages the products and the customers can query the stocks.
 
-### The following details are stored on the server side:
+## The following details are stored on the server side:
 - Id - Product identifier. An integer value greater than zero.
 - Name - Product name. A string value.
 - Type - A string representing the product type.
